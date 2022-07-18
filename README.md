@@ -1,6 +1,6 @@
 [![MasterHead](https://pbs.twimg.com/profile_banners/440051361/1656675066/1500x500)](https://twitter.com)
 <h1 align="center">Hi 👋, I'm Saiful Islam Sourov</h1>
-<h3 align="center">Full stack Web and Mobile app developer from Bangladesh</h3>
+<h3 align="center">Full Stack Web and Mobile app developer from Bangladesh</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a63c4261218031.5a676896b58d4.gif">
