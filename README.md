@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://elite-coder-personal-portfolio.netlify.app/](https://elite-coder-personal-portfolio.netlify.app/)
 
-- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/1923514009890726504](https://www.blogger.com/blog/posts/1923514009890726504)
+- 📝 I regularly write articles on [Medium](https://medium.com/@sourov444)
 
 - 💬 Ask me about **Android , Ios , MERN , Wordpress , Shopify , Wix, Squarespace**
 
